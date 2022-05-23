@@ -1,0 +1,14 @@
+C:\Users\tu7pgums7\source\repos\METHOD06\bin\Debug\netcoreapp3.1\METHOD06.exe
+C:\Users\tu7pgums7\source\repos\METHOD06\bin\Debug\netcoreapp3.1\METHOD06.deps.json
+C:\Users\tu7pgums7\source\repos\METHOD06\bin\Debug\netcoreapp3.1\METHOD06.runtimeconfig.json
+C:\Users\tu7pgums7\source\repos\METHOD06\bin\Debug\netcoreapp3.1\METHOD06.runtimeconfig.dev.json
+C:\Users\tu7pgums7\source\repos\METHOD06\bin\Debug\netcoreapp3.1\METHOD06.dll
+C:\Users\tu7pgums7\source\repos\METHOD06\bin\Debug\netcoreapp3.1\METHOD06.pdb
+C:\Users\tu7pgums7\source\repos\METHOD06\obj\Debug\netcoreapp3.1\METHOD06.csproj.AssemblyReference.cache
+C:\Users\tu7pgums7\source\repos\METHOD06\obj\Debug\netcoreapp3.1\METHOD06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7pgums7\source\repos\METHOD06\obj\Debug\netcoreapp3.1\METHOD06.AssemblyInfoInputs.cache
+C:\Users\tu7pgums7\source\repos\METHOD06\obj\Debug\netcoreapp3.1\METHOD06.AssemblyInfo.cs
+C:\Users\tu7pgums7\source\repos\METHOD06\obj\Debug\netcoreapp3.1\METHOD06.csproj.CoreCompileInputs.cache
+C:\Users\tu7pgums7\source\repos\METHOD06\obj\Debug\netcoreapp3.1\METHOD06.dll
+C:\Users\tu7pgums7\source\repos\METHOD06\obj\Debug\netcoreapp3.1\METHOD06.pdb
+C:\Users\tu7pgums7\source\repos\METHOD06\obj\Debug\netcoreapp3.1\METHOD06.genruntimeconfig.cache
